@@ -6,7 +6,7 @@ public class DisplayMonths {
 		
 		//Display January for 1, February for 2, March for 3, April for 4, May for 5, and Summer for any other numbers
 		
-		int month = 1;
+		int month = 4; //Declaring and Initiating the variable
 	
 		switch (month) {
 		case 1: 
